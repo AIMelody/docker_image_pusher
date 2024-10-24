@@ -1,6 +1,4 @@
-jayfong/yapi
-jenkins/jenkins
-minio/minio
+langgenius/dify-web
 
 
 #支持私库
@@ -15,3 +13,6 @@ minio/minio
 # redis
 #nginx
 # redis/redis-stack:latest
+# jayfong/yapi
+# jenkins/jenkins
+# minio/minio
