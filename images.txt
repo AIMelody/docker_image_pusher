@@ -1,4 +1,5 @@
-langgenius/dify-web
+langgenius/dify-api:0.10.0
+langgenius/dify-web:0.10.0
 
 
 #支持私库
